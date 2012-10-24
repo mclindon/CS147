@@ -26,7 +26,7 @@
 <div data-role="page" id="one">
 
 	<div data-role="header">
-		<h1>Multi-Page</h1>
+		<h1>Multi-Page!!</h1>
 	</div><!-- /header -->
 
 	<div data-role="content">	
