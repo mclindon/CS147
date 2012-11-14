@@ -63,10 +63,7 @@
 				geocoder.geocode({'address': $("#startingpoint").val() }, function(results, status) {
 		          if (status == google.maps.GeocoderStatus.OK) {
 		          	
-		          	// Add debug code here
-		          	
-		          	
-		          	
+		          	// Add debug code here		          	
 		            
 		            map.setCenter(results[0].geometry.location);
 		            var marker = new google.maps.Marker({
